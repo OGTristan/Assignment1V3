@@ -1,0 +1,25 @@
+html, body {
+background: #353A47;
+font-family: Arial, Verdana;
+font-size: 16px;
+color: #F9C784;
+}
+
+p {
+font-size: 1em;
+line-height: 1.4em;
+margin-bottom: 20px;
+color: #red;
+}
+
+h1 {
+border-bottom: 1px solid #000000
+padding: 20px 0 0;
+color: #red;
+}
+
+h2 {
+font-size: 1.5em;
+color: #red;
+padding: 20px 0 0;
+}
