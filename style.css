@@ -3,6 +3,7 @@ background: #353A47;
 font-family: Arial, Verdana;
 font-size: 16px;
 color: #F9C784;
+text-align: center;
 }
 
 p {
@@ -12,14 +13,33 @@ margin-bottom: 20px;
 color: #red;
 }
 
+#container {
+  width: 80%;
+  max-width: 800px;
+  background: #353A47;
+  margin: 50px auto;
+}
+
+.mainDetails {
+  padding: 25px 35px;
+  border-bottom: 2px solid #ffffff
+  background: #353A47;
+}
+
 h1 {
 border-bottom: 1px solid #000000
 padding: 20px 0 0;
 color: #red;
+
 }
 
 h2 {
 font-size: 1.5em;
 color: #red;
 padding: 20px 0 0;
+}
+
+ul {
+  text-align: left;
+
 }
